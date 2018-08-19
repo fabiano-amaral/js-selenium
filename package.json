@@ -1,0 +1,24 @@
+{
+  "name": "js-selenium",
+  "version": "1.0.0",
+  "description": "testando automatização de tarefas com selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiano-amaral/js-selenium.git"
+  },
+  "keywords": [
+    "seleniu",
+    "js",
+    "webdriver"
+  ],
+  "author": "Fabiano Amaral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiano-amaral/js-selenium/issues"
+  },
+  "homepage": "https://github.com/fabiano-amaral/js-selenium#readme"
+}
